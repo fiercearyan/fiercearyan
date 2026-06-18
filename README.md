@@ -17,7 +17,7 @@ AI-powered travel planning platform
 
 🔗 https://tripperr.lovable.app/
 
-### 💼 Refreshed Jobs
+### 💼 OpenRoles(Refreshed Jobs)
 Smart job discovery platform
 
 🔗 https://refreshed-jobs.vercel.app/
