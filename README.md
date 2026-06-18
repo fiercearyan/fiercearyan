@@ -12,22 +12,22 @@ Jenkins • Git • CI/CD • RESTful APIs
 
 ## Featured Projects
 
-### 🧳 Tripperr
+### 🧳 Tripperr ✅
 AI-powered travel planning platform
 
 🔗 https://tripperr.lovable.app/
 
-### 💼 OpenRoles(Refreshed Jobs)
+### 💼 OpenRoles(Refreshed Jobs) ✅
 Smart job discovery platform
 
 🔗 https://refreshed-jobs.vercel.app/
 
-### 🏛 Grievance Portal
+### 🏛 Grievance Portal ✅
 Complaint and grievance management system for people you care about
 
 🔗 https://fiercearyan.github.io/grievance-portal/
 
-### 🌐 Portfolio Website
+### 🌐 Portfolio Website ✅
 Personal portfolio and project showcase
 
 🔗 https://fiercearyan.github.io/Portfolio/
