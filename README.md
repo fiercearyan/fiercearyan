@@ -15,7 +15,8 @@ Jenkins • Git • CI/CD • RESTful APIs
 ### 🧳 Tripperr ✅
 AI-powered travel planning platform
 
-🔗 https://tripperr.lovable.app/
+🔗 www.tripperr.in
+🔗 tripperr.in
 
 ### 💼 OpenRoles(Refreshed Jobs) ✅
 Smart job discovery platform
